@@ -106,7 +106,7 @@ For long-term forecasting, scenario analysis is applied due to economic uncertai
 ---
 
 ## 📷 Output Graph
-
+![GDP Graph](GDP_Output.png)
 
 ---
 
